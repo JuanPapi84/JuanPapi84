@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
+<h1 align="center">Hi 👋, I'm Juan</h1
+
+![Banner](https://github.com/JuanPapi84/JuanPapi84/blob/master/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png)
+                                   
 <h3 >I am passionate about data, which is why I pursued a career in data analyst and data science. I have experience in Python, SQL, Pandas, Power BI, among others. I am passionate about the application of data in dashboards and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpapi84&label=Profile%20views&color=0e75b6&style=flat" alt="juanpapi84" /> </p>
