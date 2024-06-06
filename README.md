@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Juan</h1
+<h1 align="center">Hi 👋, I'm Juan</h1>
 
 ![Banner](https://github.com/JuanPapi84/JuanPapi84/blob/master/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png)
                                    
-<h3 >I am passionate about data, which is why I pursued a career in data analyst and data science. I have experience in Python, SQL, Pandas, Power BI, among others. I am passionate about the application of data in dashboards and machine learning.</h3>
+<h3>I am passionate about data, which is why I pursued a career in data analyst and data science. I have experience in Python, SQL, Pandas, Power BI, among others. I am passionate about the application of data in dashboards and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpapi84&label=Profile%20views&color=0e75b6&style=flat" alt="juanpapi84" /> </p>
 
@@ -31,6 +31,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0085CA?style=flat&logo=machine-learning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=deep-learning&logoColor=white)
 ![Dashboards](https://img.shields.io/badge/-Dashboards-0085CA?style=flat&logo=tableau&logoColor=white)
 ![Statistics](https://img.shields.io/badge/-Statistics-4B0082?style=flat&logo=statistics&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -41,6 +42,7 @@
 ![A/B Testing](https://img.shields.io/badge/-A%2FB%20Testing-1E90FF?style=flat&logo=testing&logoColor=white)
 ![Time Series](https://img.shields.io/badge/-Time%20Series-32CD32?style=flat&logo=timescale&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-FF6F00?style=flat&logo=neural-network&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,6 +52,31 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
+  </a> 
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanpapi84&show_icons=true&locale=en&layout=compact" alt="juanpapi84" /></p>
